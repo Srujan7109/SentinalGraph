@@ -1,0 +1,5 @@
+node_modules/
+server-python/venv/
+__pycache__/
+.env
+data/*.db
