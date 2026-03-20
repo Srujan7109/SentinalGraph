@@ -5,7 +5,7 @@ from typing import List, Optional
 import uvicorn
 import logging
 
-from rules import run_receive_forward_rule
+from rule import run_receive_forward_rule
 
 
 logging.basicConfig(
